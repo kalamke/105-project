@@ -8,7 +8,7 @@ section p {
 	color: #454545;
 }
 section h1 {
-	font: 32px 'Open Sans';
+	font: 45px 'Open Sans'; /*** font too big? ***/
 	font-weight: bold;
 	color: darkblue;
 }
